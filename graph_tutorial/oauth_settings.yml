@@ -1,0 +1,7 @@
+app_id: "befec628-d9fe-4850-84f5-9c391642b156"
+app_secret: "BM2-z_B3EHx~CpS1p1e3f1-._BJBiDds1M"
+redirect: "http://localhost:8000/callback"
+scopes: "openid profile offline_access user.read calendars.read"
+authority: "https://login.microsoftonline.com/common"
+authorize_endpoint: "/oauth2/v2.0/authorize"
+token_endpoint: "/oauth2/v2.0/token"
